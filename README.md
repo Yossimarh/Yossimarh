@@ -1,3 +1,5 @@
+![Mi logo]([https://github.com/usuario/repositorio/blob/main/imagenes/logo.png?raw=true](https://raw.githubusercontent.com/Yossimarh/Yossimarh/5f2867dce623a770660fe6030cba522ef99dfc75/Agregar%20un%20t%C3%ADtulo.png))
+
 <h1 align="center">👋 Hola, soy Yossimar Hinestroza</h1>
 <h3 align="center">Ingeniero de Datos | Automatización de Procesos | Inteligencia Artificial</h3>
 
